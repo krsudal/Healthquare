@@ -41,9 +41,11 @@ In modern society, health is often overlooked as a key asset despite its importa
 * Unreasonable and biased target
 
 <p align="left">
-  <img src="demo/hactree1.png" alt="QA Demo" width="300"/>
-  <img src="demo/hactree2.png" alt="QA Demo" width="300"/>
+  <img src="demo/1.png" width="300"/>
+  <img src="demo/2.png" width="300"/>
 </p>
+
+<img src="demo/3.png" width="300"/>
 
 
 #### ② Data Preprocessing and Feature Engineering
@@ -55,11 +57,18 @@ In modern society, health is often overlooked as a key asset despite its importa
   * Aggregate these scores to create a new target variable of `New Health Score`
   * Produce the final target of `Health Class` converting the continuous score into categorical health levels by 10-point intervals
 
+<img src="demo/4.png" width="300"/>
+
+<p align="left">
+  <img src="demo/5.png" width="300"/>
+  <img src="demo/6.png" width="300"/>
+</p>
+
 #### ③ Model Design and Evaluation
 
 * Apply and compare multiple classification models
   
-<img src="demo/hactree4.png" alt="QA Demo" width="400"/>
+<img src="demo/7.png" width="400"/>
 
 * Select the final model: **`Logistic Regression`**
   * Normally distributed variables
@@ -71,4 +80,7 @@ In modern society, health is often overlooked as a key asset despite its importa
 
 ### Web Service Demonstration
 
-<img src="demo/hactree4.png" alt="QA Demo" width="400"/>
+<p align="left">
+  <img src="demo/gradio_healthsquare1.png" alt="Web Service Demonstration" width="300"/>
+  <img src="demo/gradio_healthsquare2.png" alt="Web Service Demonstration" width="300"/>
+</p>
