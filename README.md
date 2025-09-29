@@ -65,6 +65,7 @@ In modern society, health is often overlooked as a key asset despite its importa
   * Normally distributed variables
   * Independent among variables
   * Features linearly correlated with target
+* Apply inverse normalization on the trained model
 
 ---
 
