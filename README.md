@@ -40,6 +40,12 @@ In modern society, health is often overlooked as a key asset despite its importa
 * Largely different scales of features
 * Unreasonable and biased target
 
+<p align="left">
+  <img src="demo/hactree1.png" alt="QA Demo" width="300"/>
+  <img src="demo/hactree2.png" alt="QA Demo" width="300"/>
+</p>
+
+
 #### ② Data Preprocessing and Feature Engineering
 
 * Outlier removal
@@ -52,6 +58,9 @@ In modern society, health is often overlooked as a key asset despite its importa
 #### ③ Model Design and Evaluation
 
 * Apply and compare multiple classification models
+  
+<img src="demo/hactree4.png" alt="QA Demo" width="400"/>
+
 * Select the final model: **`Logistic Regression`**
   * Normally distributed variables
   * Independent among variables
@@ -60,3 +69,5 @@ In modern society, health is often overlooked as a key asset despite its importa
 ---
 
 ### Web Service Demonstration
+
+<img src="demo/hactree4.png" alt="QA Demo" width="400"/>
