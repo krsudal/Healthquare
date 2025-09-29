@@ -45,9 +45,6 @@ In modern society, health is often overlooked as a key asset despite its importa
   <img src="demo/2.png" width="300"/>
 </p>
 
-<img src="demo/3.png" width="300"/>
-
-
 #### ② Data Preprocessing and Feature Engineering
 
 * Outlier removal
@@ -57,11 +54,11 @@ In modern society, health is often overlooked as a key asset despite its importa
   * Aggregate these scores to create a new target variable of `New Health Score`
   * Produce the final target of `Health Class` converting the continuous score into categorical health levels by 10-point intervals
 
-<img src="demo/4.png" width="300"/>
+<img src="demo/3.png" width="300"/>
 
 <p align="left">
+  <img src="demo/4.png" width="300"/>
   <img src="demo/5.png" width="300"/>
-  <img src="demo/6.png" width="300"/>
 </p>
 
 #### ③ Model Design and Evaluation
