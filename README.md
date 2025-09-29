@@ -1,4 +1,4 @@
-# Healthquare (Healthquare): Personal Health Coaching Service
+# Healthquare (Health Square): Personal Health Coaching Service
 
 ### Background
 
